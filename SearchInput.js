@@ -1,4 +1,4 @@
-class SearchInput {
+export default class SearchInput {
         constructor(element) {
             this._element = element;
         }

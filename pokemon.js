@@ -1,6 +1,6 @@
 //tervrajz az objektumnak
 
-class pokemon{
+export default class pokemon{
     //inicializálja és beállítsa az adattagokat
     constructor(name, img){
         //adattagok...
